@@ -2,14 +2,12 @@ ofxXcodeColoredLogger
 =====================
 
 ## install
-----
 
 1. Close XCode.
 2. Run ./install.sh or manually move XcodeColors.xcplugin to your ~/Library/Application Support/Developer/Shared/Xcode/Plug-ins directory.
 
 
 ## exmaple
-----
 
     #include "ofxXCodeColoredLoggerChannel.h"
 
