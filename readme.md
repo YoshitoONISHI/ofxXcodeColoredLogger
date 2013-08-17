@@ -38,5 +38,10 @@ ofxXcodeColoredLogger
         ofLogWarning("test")  << __PRETTY_FUNCTION__  << " Warning";
         ofLogError("test")    << __PRETTY_FUNCTION__  << " Error";
     }
+    
+    
+#screenshot
+
+![](example/ss.png)
 	
 
